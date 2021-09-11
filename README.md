@@ -14,6 +14,6 @@
 - Open it on Notebook,Spyder or Google Colab
 - Insert the .csv file in the IDE's you are using
 - Put the correct location of the .csv file
--You are good to go and explore now
+- You are good to go and explore now
 
 
