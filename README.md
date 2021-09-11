@@ -16,4 +16,6 @@
 - Put the correct location of the .csv file
 - You are good to go and explore now
 
+### Glimpse of the Code
+![image](https://user-images.githubusercontent.com/83566090/132944805-e6bb0517-d8e8-4ba2-b3c9-49972430351a.png)
 
